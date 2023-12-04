@@ -1,5 +1,5 @@
 # CRUD
-Crud of products with login for users, developed with ts html bootstrap ajax.
+Crud of products with login for users, developed with ts html bootstrap css ajax.
 The frontend was done in typescript, i also used ajax and jquery to send the requests to the backend which was developed in nodejs.
 
 First you have to open xamp, run apache and mysql, 
