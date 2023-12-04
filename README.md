@@ -9,13 +9,18 @@ The login page:
 
 The users are hardcoded. When you login with a valid user, the backend(nodejs) generates a jwt with useful information such as the permissions of the user in question and somedata like the id and name. There are different kinds of users with different permissions.
 
+
 ![1f743a940643e80be745733b9435a936](https://github.com/joacoox/CRUD/assets/113536722/9d7adf24-9f7d-46ba-991c-68b1dbcd753d)
 
 The jwt(token)
+
+
 ![82aabbe8a38b09149059371b63ceed6a](https://github.com/joacoox/CRUD/assets/113536722/55da2b23-bd0e-4a33-812f-6200fec8551f)
 
 You also can verify the information that was send in the token.
+
 ![cb3459436c5be0380cfaee2145c36b80](https://github.com/joacoox/CRUD/assets/113536722/462a4882-cfa5-49c4-8145-11c7399632f1)
+
 
 Then you have a crud of products, you can create, read, update and delete products.
 
