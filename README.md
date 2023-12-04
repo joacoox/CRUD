@@ -18,6 +18,8 @@ The jwt(token)
 
 ![82aabbe8a38b09149059371b63ceed6a](https://github.com/joacoox/CRUD/assets/113536722/55da2b23-bd0e-4a33-812f-6200fec8551f)
 
+also if the token expires you can no longer be in the page "pricipal.html" you'll be redirected to "index.html"
+
 You also can verify the information that was send in the token.
 
 ![cb3459436c5be0380cfaee2145c36b80](https://github.com/joacoox/CRUD/assets/113536722/462a4882-cfa5-49c4-8145-11c7399632f1)
