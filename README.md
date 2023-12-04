@@ -20,14 +20,19 @@ You also can verify the information that was send in the token.
 Then you have a crud of products, you can create, read, update and delete products.
 
 Read:
+
 ![aca9040cda7c4fb666c9cd496fd1ebce](https://github.com/joacoox/CRUD/assets/113536722/0b41366c-bd7f-4f23-958b-60ab49b28b04)
 
+
 Create:
+
 ![4b1658fa097c6e4d7087a47d9bb10312](https://github.com/joacoox/CRUD/assets/113536722/00e2e935-b224-45af-bbeb-428e6e915e6c)
 ![fda15f00ce20fd19641c32e01dee881f](https://github.com/joacoox/CRUD/assets/113536722/8821e165-c20b-4597-ba83-22d94d27ef1d)
 
 Update:
+
 ![ccc386b7ca6d509d16f965cfcdabd49e](https://github.com/joacoox/CRUD/assets/113536722/d73f5942-fff0-47cb-af69-f1a50851b7f6)
+
 
 Delete:
 
