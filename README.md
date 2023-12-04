@@ -38,14 +38,13 @@ Create:
 Update:
 
 
-![287859031-66e80528-2414-498a-bc63-4afc098a8b73](https://github.com/joacoox/CRUD/assets/113536722/26c542cd-3a76-496d-bf5f-706d32143615)
+![ccc386b7ca6d509d16f965cfcdabd49e](https://github.com/joacoox/CRUD/assets/113536722/62f32e29-3827-4e2c-ba82-7a8a1ac9b406)
 ![0bd91d55e80d5ef251aa5d9519ef77a5](https://github.com/joacoox/CRUD/assets/113536722/66e80528-2414-498a-bc63-4afc098a8b73)
 
 
 Delete:
 
-
-![287857044-8821e165-c20b-4597-ba83-22d94d27ef1d](https://github.com/joacoox/CRUD/assets/113536722/90ae9c53-77f8-4964-8011-95940d161946)
+![287859031-66e80528-2414-498a-bc63-4afc098a8b73](https://github.com/joacoox/CRUD/assets/113536722/a7ac5189-5177-43af-81d9-78fca5da981e)
 ![3a5e66398b941503a871a651271e8ebe](https://github.com/joacoox/CRUD/assets/113536722/85fceaa4-55e7-49f2-84f0-140dfb9a0c53)
 
 
