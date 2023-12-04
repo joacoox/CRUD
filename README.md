@@ -38,6 +38,7 @@ Create:
 Update:
 
 ![ccc386b7ca6d509d16f965cfcdabd49e](https://github.com/joacoox/CRUD/assets/113536722/d73f5942-fff0-47cb-af69-f1a50851b7f6)
+![0bd91d55e80d5ef251aa5d9519ef77a5](https://github.com/joacoox/CRUD/assets/113536722/66e80528-2414-498a-bc63-4afc098a8b73)
 
 
 Delete:
